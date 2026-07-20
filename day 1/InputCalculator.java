@@ -17,5 +17,6 @@ public class InputCalculator {
         long average = (count == 0) ? 0 : Math.round((double) sum / count);
 
         System.out.println("SUM = " + sum + " AVG = " + average);
+        System.out.println("HELLO THIS SIDE HARSHITA");
     }
 }
