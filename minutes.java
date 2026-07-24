@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class minutes {
+public class minutes{
 
     public static void printYearsAndDays(long minutes) {
 
