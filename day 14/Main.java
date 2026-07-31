@@ -9,7 +9,6 @@ public class Main {
         person.setFirstName("");
         person.setLastName("");
         person.setAge(10);
-
         System.out.println("First Name : " + person.getFirstName());
         System.out.println("Last Name  : " + person.getLastName());
         System.out.println("Age        : " + person.getAge());
