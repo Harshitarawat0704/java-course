@@ -118,9 +118,7 @@ public class Main {
 
         System.out.println(newMonster);
 
-        // Expected:
-        // Monster{name='Werewolf', hitPoints=20, strength=40}
-
+        
 
         // =========================
         // TEST 10: Null read()
@@ -133,6 +131,6 @@ public class Main {
         System.out.println(newPlayer);
         System.out.println(newMonster);
 
-        // Program should NOT crash.
+      
     }
 }
